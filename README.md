@@ -1,5 +1,5 @@
 # E-Shop-Connect
-Projeto de um sistema de comércio eletrônico feito no MySQL. 
+Projeto de um sistema de comércio eletrônico feito com MySQL. 
 # Modelagem do Banco de Dados
 ![Modelagem](image/modelagem.png)
 # Criação do Banco de Dados
