@@ -23,7 +23,7 @@ INSERT INTO Brand VALUES('DELL');
 INSERT INTO Brand VALUES('GoPro');
 INSERT INTO Brand VALUES('Microsoft');
 ```
-# Consulta de dados
+# Consulta de Dados
 Também fiz algumas consultas dentro do meu banco de dados.
 ```sql
 -- 2.g | Consultar a quantidade total de produtos que foram colocados no carrinho (shopping cart),considerando a loja com ID (sid) igual a 8
